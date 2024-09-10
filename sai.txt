@@ -1,4 +1,7 @@
+
 sai
 
 hrushi anna
 harsha anna
+
+Trying to resolve the conflict based on the right code output
